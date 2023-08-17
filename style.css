@@ -268,7 +268,7 @@ body {
     transform: translateX(-50%) translateY(45px);
   }
   .info {
-    margin-top: 15rem;
+    margin-top: 6rem;
   }
 }
 /* Laptop */
@@ -283,7 +283,7 @@ body {
     display: none;
   }
   .info {
-    margin-top: 28rem;
+    margin-top: 19rem;
   }
   .timeline::before {
     left: 60px;
@@ -330,7 +330,7 @@ body {
     overflow: hidden;
   }
   .info {
-    margin-top: 15rem;
+    margin-top: 5rem;
   }
   .timeline li .timeline-image {
     width: 120px;
